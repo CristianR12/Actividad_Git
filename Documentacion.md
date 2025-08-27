@@ -14,3 +14,7 @@ Imagen 2: Comandos utilizados para la creación de la nueva rama y cambio a la m
 
 Imagen 3: Primer PR en GitHub por parte de la rama feature/recetas-colombianas.
 ![Primer PR en GitHub por parte de la rama feature/recetas-colombianas](./imagenes/primerPRcolombianas.jpeg)
+
+4. Por otra parte, tras enviar una solicitud de colaboracion, el segundo estudiante realizó la clonación del repositorio.
+Imagen 4: Comandos utilizados para la clonación del repositorio.
+![Comandos utilizados para la clonación del repositorio](./imagenes/clonar.jpeg)
