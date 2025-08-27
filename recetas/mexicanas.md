@@ -21,3 +21,29 @@ En una sartén poner un chorro de aceite, el chile seco y el orégano y calentar
 Agregar la carne y saltear. Después de 5 minutos, a mitad de cocción, sumar el tomate y terminar de cocinar.
 Por otro lado, saltear el resto de las verduras hasta que estén cocidas pero OJO: que estén firmes.
 Mezclar las dos preparaciones y rectificamos con sal y pimienta de ser necesario. Le agregamos el resto del zumo de lima o limón y el cilantro deshojado.
+
+##Cómo hacer las salsas para los tacos
+###Salsa roja
+Ingredientes
+1 tomate grande o 2 chicos
+1/2 pimiento o morrón rojo
+1/2 cebolla
+1 cda de chile chipotle
+Sal y pimienta
+Aceite de oliva
+Procedimiento
+Cortar las verduras y poner en una asadera y al horno junto con el chile, sal, pimienta y un chorrito de aceite de oliva.
+Cuando estén, meter a la licuadora y moler hasta tener una mezcla homogénea.
+
+###Salsa verde
+Ingredientes
+3 chiles verdes
+1/2 morrón o pimiento verde
+1 chile jalapeño
+5 tomates verdes
+Cilantro
+1/2 cebolla
+Sal
+Procedimiento
+Poner el pimiento, la cebolla, el chile y los tomates en una sartén con un poquito de aceite de oliva y tapar. Cuando estén cocidos dejar que se enfríen.
+Ponerlas en una licuadora y sumarle sal y cilantro a gusto. Licuar hasta obtener una masa homogénea.
