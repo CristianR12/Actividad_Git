@@ -13,7 +13,7 @@ Chile seco (a gusto)
 Sal y pimienta
 Cilantro
 Aceite neutro
-##Como hacer tacos de carne
+##Cómo hacer tacos de carne
 Cortar los morrones y la cebolla en juliana, el ajo y el chile bien bien pequeño y el tomate en cubitos. Reservar por separado.
 Cortar la carne en tiritas y en un bol salpimentar, agregar la mitad del zumo de lima o limón y dejar macerando unos 20 minutos.
 Si quieren, en este paso pueden hacer la magia que les guste para darle sabor a la carne: ponerle mostaza, un chorro de cerveza… Lo que ustedes quieran. La idea es que los tacos de carne queden bien sabrosos así que todo vale. 
