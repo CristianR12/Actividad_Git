@@ -56,3 +56,43 @@ Imagen 13: PR para la rama features/rama-colombia.
 Imagen 14: Aceptación de PR para la rama features/rama-colombia.
 ![Aceptación de PR para la rama features/rama-colombia](./imagenes/Merge-colombianas.jpeg)
 
+13. Para la práctica, se creo un conflicto en la rama-documentacion en el archivo Documentacion.md; el cual se presentó en el momento de realizar un pull request a la rama main.
+Imagen 15: Creación de conflicto.
+![Creación de conflicto](./imagenes/conflicto.jpeg)
+
+Imagen 16: Visualización del conflicto.
+![Visualización del conflicto](./imagenes/conflicto2.jpeg)
+
+14. Este conflicto fue resuelto en el editor de código de GitHub.
+Imagen 17: Resolución del conflicto.
+![Resolución del conflicto](./imagenes/resolucion.jpeg)
+
+15. Una vez arreglado el conflicto, se realizó un pull request para fusionar el archivo con los cambios definitivos en la rama main.
+Imagen 18: PR para el archivo que generó el conflicto.
+![Resolución del conflicto](./imagenes/PR-arreglo-conflicto.jpeg)
+
+16. Y posteriormente, fue aceptado y fusionado.
+Imagen 19: Fusión con el archivo que generó el conflicto.
+![Resolución del conflicto](./imagenes/merge-conflicto.jpeg)
+
+17. Con esto, se generó el tag para la indicar el fin de la primera versión, con "git tag".
+Imagen 20: Creación de tag a partir de comandos.
+![Creación de tag a partir de comandos](./imagenes/tag.jpeg)
+
+18. El último ejercicio realizado, fue la modificación y adición al repostorio de un archivo .gitignore, para que no se tenga en cuenta una carpeta .log o el archivo server.log. Este archivo fue subido desde la rama features/rama-colombiana y se realizó un pull request para combinarlo con la rama main.
+Imagen 21: PR para el archivo .gitignore.
+![PR para el archivo .gitignore](./imagenes/PR-gitignore.jpeg)
+
+19. El otro estudiante revisó dicha petición y la aceptó en GitHub.
+Imagen 22: Revisión del PR para el archivo .gitignore.
+![Revisión del PR para el archivo .gitignore](./imagenes/PR-gitignore2.jpeg)
+
+Imagen 23: Aceptación y merge del PR para el archivo .gitignore.
+![Aceptación y merge del PR para el archivo .gitignore](./imagenes/merge-gitignore2.jpeg)
+
+20. Los commits finales para el repositorio consisten en la adición de imágenes y modificaciones en rama-documentación para registrar todos los pasos realizados para la presente actividad.
+Imagen 24: Cambios finales para la documentación en el repositorio.
+![Cambios finales para la documentación en el repositorio.](./imagenes/cambios-en-rama-documentación.png)
+
+Relacionado a la documentación, se realizó un vídeo el cual también será adjuntado en el repositorio.
+
