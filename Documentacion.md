@@ -45,4 +45,14 @@ Imagen 10: PR aceptado y Merge realizado.
 Imagen 11: Git log para los cambios en colombianas.md.
 ![Git log para los cambios en colombianas.md](./imagenes/git-log-colombianas.jpeg)
 
-11. 
+11. Una vez realizados estos commits, se finalizaron los cambios en las ramas y se realizó un pull request.
+Imagen 12: PR para la rama features/rama-colombia.
+![PR para la rama features/rama-colombia](./imagenes/PR-colombianas.jpeg)
+
+Imagen 13: PR para la rama features/rama-colombia.
+![PR para la rama features/rama-colombia](./imagenes/PR-colombianas2.jpeg)
+
+12. La petición y fusión con la rama main fue aceptada por el otro estudiante.
+Imagen 14: Aceptación de PR para la rama features/rama-colombia.
+![Aceptación de PR para la rama features/rama-colombia](./imagenes/Merge-colombianas.jpeg)
+
