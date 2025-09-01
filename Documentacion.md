@@ -18,3 +18,6 @@ Imagen 3: Primer PR en GitHub por parte de la rama feature/recetas-colombianas.
 4. Por otra parte, tras enviar una solicitud de colaboracion, el segundo estudiante realizó la clonación del repositorio.
 Imagen 4: Comandos utilizados para la clonación del repositorio.
 ![Comandos utilizados para la clonación del repositorio](./imagenes/clonar.jpeg)
+
+5. link del video:
+https://youtu.be/Rflc4e6J2eE
